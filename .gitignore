@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Unit test / cache
+.cache
+
+#credentials / logs
+config.py
+
+#binaries data
+data/
